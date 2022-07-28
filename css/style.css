@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+
+.container h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 50px;
+    margin-top: 0em;
+}
+
+header{
+    background-color:orange;
+}
+section{
+    align-items: center;
+    padding-left: 25%;
+    margin-top: -9em;
+    text-transform: capitalize;
+}
+
+
+li{
+    margin: 10px;
+    text-transform: capitalize;
+}
+img{
+    height: 5rem;
+}
+
+ul{
+    text-decoration: underline;
+    list-style-type: none;
+    margin: 0;
+}
+
+footer{
+    text-align: center;
+    background-color: orange;
+    height: 2.5em;
+}
